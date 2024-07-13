@@ -35,4 +35,4 @@ end
 
 game.Players.PlayerAdded:Connect(aplicarParaJogador)
 
-aplicarParaTodos()```
+aplicarParaTodos()
