@@ -1,5 +1,4 @@
 # LuaU
-💡 Roblox • Use para fazer o seu FPS Booster
 # 🟢 Remove completamente a skin dos jogadores 
 ```
 local function removerAcessoriosEPele(personagem)
