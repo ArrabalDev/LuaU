@@ -1,7 +1,8 @@
 # LuaU
 💡 Roblox • Use para fazer o seu FPS Booster
 # 🟢 Remove completamente a skin dos jogadores 
-`local function removerAcessoriosEPele(personagem)
+```
+local function removerAcessoriosEPele(personagem)
     for _, acessorio in pairs(personagem:GetChildren()) do
         if acessorio:IsA("Accessory") then
             acessorio:Destroy()
@@ -36,4 +37,4 @@ end
 
 game.Players.PlayerAdded:Connect(aplicarParaJogador)
 
-aplicarParaTodos()`
+aplicarParaTodos()```
