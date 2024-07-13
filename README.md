@@ -1,4 +1,4 @@
-# (🟢) Remove completamente a skin dos jogadores 
+# (🟢) Remove completamente a skin dos jogadores.
 ```
 local function removerAcessoriosEPele(personagem)
     for _, acessorio in pairs(personagem:GetChildren()) do
