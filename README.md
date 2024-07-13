@@ -1,4 +1,3 @@
-# LuaU
 # 🟢 Remove completamente a skin dos jogadores 
 ```
 local function removerAcessoriosEPele(personagem)
